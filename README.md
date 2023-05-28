@@ -1,5 +1,7 @@
 # TodoApp
 
+| Main menu |  Todo   |  Center   |  Right   |
+|-----------| :----------:| :-----------:| ---------------:|
 
 <div class="img-div">
 <img src="/assets/screenshots/Screenshot_1.png" width="24%">
