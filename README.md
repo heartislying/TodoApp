@@ -10,6 +10,3 @@
 <img src="/assets/screenshots/Screenshot_4.png" width="24%">
 </div>
 
-#img-div {
-  display: flex;
-}
