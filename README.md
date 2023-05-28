@@ -1,6 +1,6 @@
 # TodoApp
 
-| Main menu |  Todo   |  Center   |  Right   |
+| Main menu                  |  Todo                |  Center            |          Right    |
 |-----------| :----------:| :-----------:| ---------------:|
 
 <div class="img-div">
